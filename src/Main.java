@@ -1,4 +1,5 @@
 public class Main {
+    //otkat
     public static void main(String[] args) {
 
        int ticketPrice = 1835 ; // стоимость билета
