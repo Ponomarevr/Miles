@@ -1,4 +1,6 @@
 public class Main {
+
+    //correct
     public static void main(String[] args) {
 
        int ticketPrice = 1835 ; // стоимость билета
